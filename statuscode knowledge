@@ -1,0 +1,7 @@
+the status code are used to check the operation status if its complete or not, status code used:-
+
+1.100-199: these status code are used when we want to provide some information
+2.200-299: to show the operation performed successfully
+3.300-399: these status code indicate redirection to different url or page
+4.400-499: status code in 400s are used to indicate error in code or application, mainly client side error
+5.500-599: server side error are shown with 500 code
